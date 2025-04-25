@@ -1,0 +1,1 @@
+This GitHub repository publishes a list of UDT projects and analyzes them based on their scale, lifecycle, levels, and methods of data integration, helping to establish a reference for current Urban Digital Twin initiatives to support future research and development.
